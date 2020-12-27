@@ -1,0 +1,24 @@
+html,body{
+  background-color:   #a0daa9;
+  height: 100%;
+}
+
+.weekdaysheader{
+    background-color:  #a0daa9;
+    height: 20%;
+    text-align: center;
+}
+.weekdaysconent{
+  background-color: #8ad7c1;
+  height: 70%;
+  text-align: center;
+  font-style: italic;
+  font-size: 22pt;
+}
+.weekdaysfooter{
+  margin-top: 1%;
+  height: 10%;
+    text-align: center;
+    background-color: #a0daa9;
+    font-size: 22pt;
+  }

@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  background-color:   #a0daa9;
+
+}
+
+.ukgpageheader{
+  background-color:  #a0daa9;
+  height: 30%;
+  text-align: center;
+  font-size: 22pt;
+   font-family: cursive;
+}
+.ukgcontent{
+  background-color: #f0e2d0;
+  height: 30%;
+  text-align: center;
+  font-size: 22pt;
+}

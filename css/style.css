@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+    background-color: #a0daa9;
+}
+
+.page1welcomesection{
+  background-color: #a0daa9;
+  text-align: center;
+  height: 50%;
+}
+
+.page1selectclasssection{
+    background-color: #f0e2d0;
+
+  height: 50%;
+  text-align: center;
+}

@@ -1,0 +1,25 @@
+html, body {
+  height: 100%;
+    background-color: #a0daa9;
+
+}
+
+.articleheader{
+  height: 5%;
+  background-color: #a0daa9;
+  text-align: center;
+
+}
+.articlecontent{
+  height: 80%;
+    background-color: #8ad7c1;
+  font-size: 22pt;
+  text-align: center;
+}
+.articlesfooter{
+  margin-top: 1%;
+  height: 10%;
+    text-align: center;
+    background-color: #a0daa9;
+    font-size: 22pt;
+  }
